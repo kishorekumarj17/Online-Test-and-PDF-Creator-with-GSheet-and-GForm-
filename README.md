@@ -15,7 +15,7 @@
 **Step 4**  Refresh your Gsheet File to load the menu icon. Menu icon will be loaded in menu's list like below.
 
 
-![image](https://user-images.githubusercontent.com/42991864/201472542-c1d43871-ef57-4fa6-88ad-f98a7b7827d4.png)
+![image](https://user-images.githubusercontent.com/42991864/201473231-e6b43950-45fd-492f-840b-72dda73f136c.png)
 
 
 **Step 5** Authorize and Click **Online Test Template** option in the menu list and let the script generate a template for you
